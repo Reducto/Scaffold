@@ -1,0 +1,8 @@
+--- 
+ru: 
+  activerecord: 
+    models: 
+      label: Пользователь
+  attributes: 
+    profile: 
+      label: "Отображаемое имя"
